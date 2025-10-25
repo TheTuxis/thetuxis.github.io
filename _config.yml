@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: b2a3e8/jekyll-theme-console
 plugins:
 - jekyll-remote-theme
+- jekyll-seo-tag
 title: TheTuxis - Desarrollador Full Stack
 description: Portfolio y proyectos de un desarrollador apasionado por Python, Django, DevOps, ML y más. Explora más de 50 repositorios de código abierto.
 author: TheTuxis
