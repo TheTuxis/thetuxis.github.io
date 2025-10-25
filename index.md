@@ -113,8 +113,9 @@ Configuraciones personalizadas de sistema (Lua, shell scripts) para un ambiente 
 ## 💼 Habilidades Técnicas
 
 ### Lenguajes de Programación
-- 🐍 **Python** (Experto) - Framework principal: Django, Flask
-- ☕ **Java** - Desarrollo Android
+- 🐍 **Python** - Framework principal: Django, Flask
+- 🐹 **Go** - Framework principal: Gin, Chi
+- 🦀 **Rust** - Framework principal: RMCP, Tokio, Axum
 - 🔷 **C++** - Unreal Engine, desarrollo de juegos
 - 📜 **JavaScript** - React, Angular, Node.js
 - 🌙 **Lua** - Configuraciones y scripting
