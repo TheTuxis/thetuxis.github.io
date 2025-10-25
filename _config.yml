@@ -2,6 +2,12 @@ theme: jekyll-theme-minimal
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: TheTuxis's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: TheTuxis - Desarrollador Full Stack
+description: Portfolio y proyectos de un desarrollador apasionado por Python, Django, DevOps, ML y más. Explora más de 50 repositorios de código abierto.
+author: TheTuxis
+show_downloads: false
+google_analytics: 
+github:
+  owner_name: TheTuxis
+  owner_url: https://github.com/TheTuxis
 
