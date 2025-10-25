@@ -11,3 +11,15 @@ github:
   owner_name: TheTuxis
   owner_url: https://github.com/TheTuxis
 
+header_pages:
+  - index.md
+  - peter.md
+  - about.md
+  - contact.md
+
+style: dark
+
+footer: ''
+
+# Build settings
+markdown: kramdown
